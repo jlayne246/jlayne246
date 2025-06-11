@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A passionate full-stack web, and aspiring mobile developer from Barbados looking to use technology to make life easier and solve problems</h3>
 
-- 🔭 I’m currently working on [CaribPay](https://github.com/jlayne246/CaribPay)
+- 🔭 I’m currently working on [CaribPay](https://github.com/jlayne246/CaribPay), and [AirScore](https://github.com/jlayne246/AirScore)
 
 - 🌱 I’m currently learning **React Native, UI/UX Design**
 
